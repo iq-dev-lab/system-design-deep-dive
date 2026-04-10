@@ -295,6 +295,6 @@ Redis, Kafka, MySQL, Elasticsearch를 각각 아는 것과,
 
 <div align="center">
 
-*"정답은 없고 트레이드오프만 있다"*
+**"정답은 없고 트레이드오프만 있다"**
 
 </div>
