@@ -295,8 +295,6 @@ Redis, Kafka, MySQL, Elasticsearch를 각각 아는 것과,
 
 <div align="center">
 
-**총 42개 문서 · 7개 디렉토리**
-
 *"정답은 없고 트레이드오프만 있다"*
 
 </div>
